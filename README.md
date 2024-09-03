@@ -1,4 +1,5 @@
 # Brain-Tumor-classification-using-transfer-learning-
+![Transfer Learning](https://github.com/Phantom1746a/Brain-Tumor-classification-using-transfer-learning-/blob/main/TRANSFER%20LEARNING.jpg)
 This project tackles the crucial task of brain tumor classification using a deep learning approach. The model leverages EfficientNet, a state-of-the-art convolutional neural network (CNN) architecture, for transfer learning.
 As a deep learning engineer, I'm constantly fascinated by the potential of this field to solve complex problems. But let's be honest, training these powerful models can be a beast. Data collection is a hurdle, and computational resources can drain your patience (and wallet) faster than a rogue process.
 
